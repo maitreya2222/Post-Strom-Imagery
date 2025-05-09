@@ -4,14 +4,14 @@ A comprehensive and automated system for real-time flood detection, mapping, and
 
 ---
 
-## 🚀 **Flood Response and Mapping Pipeline**
+##  **Flood Response and Mapping Pipeline**
 
 ### **Overview**
 The `Post-Strom-Imagery` project establishes a robust pipeline to accurately detect and map flood extents in real-time using satellite imagery, DEM data, and advanced geospatial analysis techniques. By leveraging data from NASA DRCS and the Copernicus satellite program, the pipeline generates GIS-compatible outputs to assist in disaster response, urban planning, insurance assessments, and risk mitigation.
 
 ---
 
-### ✅ **Key Features**
+###  **Key Features**
 - **Real-Time Flood Mapping:** Automated extraction of flood boundaries using Sentinel-1 SAR VV bands and DEM-based slope analysis.
 - **GIS-Compatible Outputs:** Generation of shapefiles, GeoJSON, and CSV outputs for municipality-wise flood impact analysis.
 - **Advanced Flood Prediction:** A custom logistic model using Open-Meteo weather data (wind and pressure) to predict flood probabilities 7 days ahead.
@@ -20,7 +20,7 @@ The `Post-Strom-Imagery` project establishes a robust pipeline to accurately det
 
 ---
 
-### 🌐 **Data Sources**
+###  **Data Sources**
 1. **NASA DRCS:** Real-time disaster response imagery for immediate flood impact assessment.
 2. **Copernicus Sentinel-1 SAR:** High-resolution SAR VV bands for accurate flood detection.
 3. **Digital Elevation Models (DEM):** Slope and elevation data for depth estimation and flood impact analysis.
@@ -36,7 +36,7 @@ The `Post-Strom-Imagery` project establishes a robust pipeline to accurately det
 
 ---
 
-### 📦 **Technologies Used**
+###  **Technologies Used**
 - **Programming Languages:** Python, R
 - **Machine Learning Libraries:** TensorFlow, Scikit-Learn
 - **GIS and Mapping:** QGIS, GeoPandas, Folium
@@ -46,7 +46,7 @@ The `Post-Strom-Imagery` project establishes a robust pipeline to accurately det
 
 ---
 
-### ✅ **Next Steps**
+###  **Next Steps**
 - Integrate DEM-based flood depth estimation.
 - Implement advanced post-processing techniques for noise reduction and boundary refinement.
 - Automate flood prediction updates using real-time weather data feeds.
