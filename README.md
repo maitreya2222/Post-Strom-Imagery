@@ -29,7 +29,7 @@ The `Post-Strom-Imagery` project establishes a robust pipeline to accurately det
 
 ---
 
-### 🛠️ **Notebooks and Implementation**
+###  **Notebooks and Implementation**
 - **Objective 1:** Enhanced flood detection using slope-filtered VV backscatter difference (`notebooks/objectives/objective_1_updated.ipynb`).
 - **Objective 3:** Future flood prediction using logistic model with Open-Meteo data (`notebooks/objectives/obj_3.ipynb`).
 - **Additional Analysis:** Additional experimental implementation and analysis (`notebooks/objectives/Untitled3.ipynb`).
